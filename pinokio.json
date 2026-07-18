@@ -1,0 +1,8 @@
+{
+  "title": "DocToSpeech",
+  "description": "Fully offline document-to-speech converter supporting 9 TTS models across 5 engine groups: Coqui (XTTS v2, Bark, VITS, YourTTS), StyleTTS 2, Resemble Chatterbox, Tortoise TTS, Sesame CSM-1B, and OpenVoice V2. Converts EPUB, PDF, DOCX, HTML, and TXT files to audio with voice cloning support. No API keys or cloud services required.",
+  "icon": "icon.png",
+  "author": "C0m3b4ck",
+  "license": "MPL-2.0",
+  "repository": "https://github.com/C0m3b4ck/DocToSpeech-Pinokio"
+}

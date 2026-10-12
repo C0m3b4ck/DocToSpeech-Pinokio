@@ -99,6 +99,6 @@ When a PDF contains no extractable text (pure image scans), DocToSpeech automati
 
 ## Credits
 
-Started on July 12th, 2026 by C0m3b4ck.
+Started on July 12th, 2026 by C0m3b4ck, with agentic assistance.
 
-MPL 2.0 License.
+APL 2.0 License.
